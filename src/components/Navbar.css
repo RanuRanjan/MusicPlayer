@@ -1,0 +1,11 @@
+nav{
+ display: flex;
+ justify-content: space-around;
+ flex-wrap: nowrap;
+}
+nav>div{
+    gap:20px;
+}
+nav>div:nth-child(2){
+    /* flex-grow: 1; */
+}

@@ -1,0 +1,147 @@
+{
+
+"Album":[
+  {
+    "artist":"raftar",
+    "album_logo":"",
+    "genre":"hip-hop",
+    "year":2019,
+    "song":[{
+      "title":"All Black",
+      "duration":"3:25",
+      "src":"../public/songs/1.mp3"
+    },{
+      "title":"Ghana Kasuta",
+      "duration":"3:46",
+      "src":"../public/songs/1.mp3"
+    },{
+      "title":"Baby marwake manegi",
+      "duration":"3:16",
+      "src":"../public/songs/1.mp3"
+    }]
+  },{
+    "artist":"raftar",
+    "genre":"rap",
+    "year":2020,
+    "song":[{
+      "title":"I'm Ready",
+      "duration":"4:04",
+      "src":"../public/songs/1.mp3"
+    },{
+      "title":"Sheikh chilli",
+      "duration":"3:09",
+      "src":"../public/songs/1.mp3"
+    },{
+      "title":"Lets Talk About Love",
+      "duration":"3:51",
+      "src":"../public/songs/1.mp3"
+    }]
+  },{
+    "artist":"atif",
+    "genre":"romantic",
+    "year":2021,
+    "song":[{
+      "title":"Dil Diyan Galan",
+      "duration":"5:20",
+      "src":"../public/songs/2.mp3"
+    },{
+      "title":"Besabar",
+      "duration":"3:08",
+      "src":"../public/songs/1.mp3"
+    },{
+      "title":"Pal Pal",
+      "duration":"3:59",
+      "src":"../public/songs/1.mp3"
+    }]
+  },{
+    "artist":"atif",
+    "genre":"slow",
+    "year":2018,
+    "song":[{
+      "title":"Tere Sang Yara",
+      "duration":"5:20",
+      "src":"../public/songs/2.mp3"
+    },{
+      "title":"Jeena Jeena",
+      "duration":"3:08",
+      "src":"../public/songs/1.mp3"
+    },{
+      "title":"Tera Hua",
+      "duration":"3:59",
+      "src":"../public/songs/1.mp3"
+    }]
+  }, {
+    "artist":"arijit",
+    "album_logo":"",
+    "genre":"melody",
+    "year":2012,
+    "song":[{
+      "title":"Mai tenu kinna chandia",
+      "duration":"3:25",
+      "src":"../public/songs/1.mp3"
+    },{
+      "title":"Kinna Sona",
+      "duration":"3:46",
+      "src":"../public/songs/1.mp3"
+    },{
+      "title":"Hum mar jaenge",
+      "duration":"3:16",
+      "src":"../public/songs/1.mp3"
+    }]
+  },{
+    "artist":"arijit",
+    "genre":"sweet",
+    "year":2017,
+    "song":[{
+      "title":"maahi ve",
+      "duration":"4:04",
+      "src":"../public/songs/1.mp3"
+    },{
+      "title":"sona sona",
+      "duration":"3:09",
+      "src":"../public/songs/1.mp3"
+    },{
+      "title":"ilahi",
+      "duration":"3:51",
+      "src":"../public/songs/1.mp3"
+    }]
+  },{
+    "artist":"lata mangeshkar",
+    "genre":"classical",
+    "year":1999,
+    "song":[{
+      "title":"tere bina zindgi se",
+      "duration":"5:20",
+      "src":"../public/songs/2.mp3"
+    },{
+      "title":"rangeela re",
+      "duration":"3:08",
+      "src":"../public/songs/1.mp3"
+    },{
+      "title":"naina barse",
+      "duration":"3:59",
+      "src":"../public/songs/1.mp3"
+    }]
+  },{
+    "artist":"lata mangeshkar",
+    "genre":"sad",
+    "year":2000,
+    "song":[{
+      "title":"Tere Sath h toh",
+      "duration":"5:20",
+      "src":"../public/songs/2.mp3"
+    },{
+      "title":"ye galiya ye chobara",
+      "duration":"3:08",
+      "src":"../public/songs/1.mp3"
+    },{
+      "title":"sheesha ho ya dil ho",
+      "duration":"3:59",
+      "src":"../public/songs/1.mp3"
+    }]
+  }
+]
+  
+  
+
+}
