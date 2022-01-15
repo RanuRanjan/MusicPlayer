@@ -1,0 +1,35 @@
+.Artistfull{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: 0 auto;
+    background-color: #242B2E;
+    padding: 20px;
+    height: 600px;
+
+}
+.top{
+    display: flex;
+    color: #CAD5E2;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    gap: 20px;
+    /* height: 30%; */
+    /* flex-wrap: nowrap; */
+}
+.top>div>img{
+    width: 200px;
+    height: 200px;
+}
+
+.bottom{
+    border: 1px solid #CAD5E2;
+    height: 60%;
+}
+
+.song-name{
+    display: flex;
+    justify-content: space-around;
+    color: #ffff;
+    margin-bottom: 20px;
+}
