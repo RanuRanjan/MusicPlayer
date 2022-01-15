@@ -1,0 +1,46 @@
+{
+    "Pritam" :[
+      {
+        "id":1,
+        
+       "title": "BhotHard",
+       "artist": "Divine",
+       "song-img":"https://i.scdn.co/image/ab67616d0000b273ec77faa33d92bee1abcb5b2d",
+       "audioSrc": "./public/hiphop/bohtHard.mp3"
+      },
+      {
+        "id":2,
+       "title": "Kaam25",
+       "artist": "Divine",      
+       "song-img":"https://images.hungama.com/c/1/14c/d6d/37128192/37128192_200x200.jpg",
+       "audioSrc": "./public/hiphop/kaam25.mp3"
+     },
+     {
+       "id":3,
+       "title": "Makhna",
+       "artist": "HoneySingh",
+       "song-img":"https://naalyrics.com/wp-content/uploads/2018/12/Makhna.jpg",
+       "audioSrc": "./public/hiphop/makhna.mp3"
+     },
+     {
+       "id":4,
+       "title": "Phoonkle",
+       "artist": "Nitika Ghandhi",
+       "song-img":"https://static.toiimg.com/photo/msid-88806293/88806293.jpg",
+       "audioSrc": "./public/hiphop/phoonkle.mp3"
+     },
+     {
+       "id":5,
+       "title": "TipTip Barsha",
+       "artist": "Alka aagnik",
+       "song-img":"https://i1.sndcdn.com/artworks-e1HpHFqgqKxRYX0V-60FsQQ-t500x500.jpg",
+       "audioSrc": "./public/hiphop/tiptipbarsa.mp3"
+      }
+    ]
+    
+ 
+ }
+ 
+ 
+ 
+ 
