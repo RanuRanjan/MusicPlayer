@@ -1,11 +1,74 @@
 nav{
- display: flex;
- justify-content: space-around;
- flex-wrap: nowrap;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    height: 2rem;
+    align-items: center;
+    padding: 10px;
 }
+
 nav>div{
-    gap:20px;
+    width: 33%;
+
+    /* gap: 2rem; */
 }
-nav>div:nth-child(2){
-    /* flex-grow: 1; */
+
+.logo>div{
+    display: flex;
+    width: 20%;
+    height: 100%;
+    justify-content: space-around;
+    /* padding: 20px; */
+    align-items: center;
+}
+.logo>div>img{
+    width: 100%;
+}
+
+
+
+
+
+
+.search-div{
+    display: flex;
+    background-color: #242B2E;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.input-div{
+    width: 85%;
+   
+}
+.input-div>input{
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color:transparent;
+}
+.btn-div{
+    width: 15%;
+  
+}
+.btn-div>button{
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: #758283;
+    font-size: 16px;
+
+}
+.others{
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+.others>div>button{
+      padding: 8px 15px;
+      border: none;
+      outline: none;
+      border-radius: 8px;
+      background-color: #758283;
+      color: #242B2E;
 }
